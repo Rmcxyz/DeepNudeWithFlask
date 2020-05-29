@@ -12,6 +12,8 @@ goto browser localhost (0.0.0.0:80)
 
 check this blog https://rmcxyz.blogspot.com/ to know how it works
 
+<a href="https://www.paypal.me/removeclothesxyz">PAYPAL</a>
+
 <p float="left">
   <img src="input.png" width="300" />
   <img src="uploads/input.jpg" width="300" /> 
