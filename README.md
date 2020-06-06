@@ -6,7 +6,22 @@ download checkpoints
 
 python app.py
 
-(what ever error comes pip install "that missing package")
+pip install flask
+
+pip install gevent
+
+pip install numpy
+
+pip install six
+
+pip install pillow
+
+pip install opencv-python
+
+(check here for your system https://pytorch.org/get-started/locally/)
+pip install torch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+pip install requests
 
 goto browser localhost (0.0.0.0:80)
 
