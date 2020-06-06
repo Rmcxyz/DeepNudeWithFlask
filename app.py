@@ -1,7 +1,7 @@
 #import os
 import base64
 from flask import Flask, render_template, request, redirect, url_for, send_from_directory
-from werkzeug import secure_filename
+from werkzeug.utils import secure_filename
 from gevent.pywsgi import WSGIServer
 import numpy as np
 #import os
