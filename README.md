@@ -19,6 +19,7 @@ pip install pillow
 pip install opencv-python
 
 (check here for your system https://pytorch.org/get-started/locally/)
+
 pip install torch==1.5.0+cpu torchvision==0.6.0+cpu -f https://download.pytorch.org/whl/torch_stable.html
 
 pip install requests
