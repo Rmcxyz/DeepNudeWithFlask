@@ -10,7 +10,7 @@ python app.py
 
 goto browser localhost (0.0.0.0:80)
 
-check this blog https://rmcxyz.blogspot.com/ to know how it works
+check this blog http://www.removeclothes.xyz/ to know how it works
 
 <a href="https://www.paypal.me/removeclothesxyz">PAYPAL</a>
 
