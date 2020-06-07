@@ -1,5 +1,7 @@
 DEEPNUDE with web interface (Flask)
 
+( https://youtu.be/tdfoMydGfJ0 )
+
 git clone https://github.com/Rmcxyz/DeepNudeWithFlask.git (or download zip and extarct )
 
 download checkpoints
